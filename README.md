@@ -20,17 +20,16 @@ Make sure you have the following software installed:
 
 ### Install dependencies
 
-#### Using npm:
+- Using npm:
 
-    ```
+  ```
     npm install
-    ```
+  ```
 
-#### Or using Yarn:
-
-     ```
-     yarn install
-     ```
+- Using yarn:
+  ```
+    yarn install
+  ```
 
 ### Running the application
 
