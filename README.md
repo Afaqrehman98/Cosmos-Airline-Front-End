@@ -1,6 +1,6 @@
-# My React TypeScript Project
+# Cosmos App Front-End
 
-This is a React application written in TypeScript. Follow the instructions below to set up and run the project locally.
+This is a Cosmos application front end written in TypeScript. Follow the instructions below to set up and run the project locally.
 
 ## Prerequisites
 
