@@ -33,16 +33,15 @@ Make sure you have the following software installed:
 
 ### Running the application
 
-#### Using npm:
+- Using npm:
 
-    ```
+  ```
     npm run dev
-    ```
+  ```
 
-#### Or using Yarn:
-
-    ```
+- Using yarn:
+  ```
     yarn dev
-    ```
+  ```
 
 This will start the development server and open the application in your default web browser. The application will reload if you make edits.
